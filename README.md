@@ -4,5 +4,7 @@ CPSC 601.90
 Instructions
 
 1 - Print image house_floor.jpg for the target
+
 2 - Open project "New Unity Project"
+
 3 - 
