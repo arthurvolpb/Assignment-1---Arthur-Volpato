@@ -7,4 +7,6 @@ Instructions
 
 2 - Open project "New Unity Project"
 
-3 - 
+3 - Open scene "main"
+
+4 - Hit Play!
